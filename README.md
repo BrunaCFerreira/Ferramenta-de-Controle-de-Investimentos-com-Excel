@@ -10,4 +10,5 @@ A solução deve automatizar cálculos como:
 - Valor total investido
 - Patrimônio acumulado ao longo do tempo
 - Projeção de dividendos mensais
+
 O objetivo é fornecer uma visão clara dos retornos potenciais, simplificando a análise para o investidor.
